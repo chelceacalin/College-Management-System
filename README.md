@@ -1,6 +1,6 @@
 # College-Management-System
 
-
+<pre>
 
  It's an app made in C# ( winforms ) that helps teachers and students keep track of their work.
 -- It can import/export into and from Binary Files and XML Files
@@ -9,3 +9,4 @@
 -- Uses ListView, TreeView, GridView
 -- Shares data between forms
 -- Uses SQL Server to store the Users Accounts
+</pre>
