@@ -1,0 +1,74 @@
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.ContPrincipal.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.FormADDStudent.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.VeziStudent.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CopyComplete
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.FormOrar.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.Grafic.resources
+C:\Users\Calin\Desktop\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\Calin\Desktop\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\Calin\Desktop\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\Calin\Desktop\Proiect_PAW\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.ContPrincipal.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.FormADDStudent.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.FormOrar.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.Grafic.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.VeziStudent.resources
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CopyComplete
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\Calin\Desktop\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\bin\Debug\Proiect_PAW.exe.config
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\bin\Debug\Proiect_PAW.exe
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\bin\Debug\Proiect_PAW.pdb
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.ContPrincipal.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormADDStudent.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormCont.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.Grafic.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.VeziStudent.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.CopyComplete
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.exe
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.pdb
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormOrar.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.UserControl1.resources
+C:\Users\rober\OneDrive\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormUserControl.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\bin\Debug\Proiect_PAW.exe.config
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\bin\Debug\Proiect_PAW.exe
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\bin\Debug\Proiect_PAW.pdb
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.ContPrincipal.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormADDStudent.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormCont.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormOrar.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.FormUserControl.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.Grafic.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.UserControl1.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.VeziStudent.resources
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.csproj.CopyComplete
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.exe
+C:\Users\Calin\Desktop\Proiect_PAW - Copy\obj\Debug\Proiect_PAW.pdb

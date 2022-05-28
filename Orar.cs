@@ -8,19 +8,20 @@ namespace Proiect_PAW
 {
     public class Orar
     {
-        string materie;
         DateTime data;
         string numeProfesor;
+        string materie;
         string prenumeProfesor;
 
 
        
-        public Orar(string Materie, DateTime data,string numeProfesor,string prenume)
+        public Orar(DateTime data, string numeProfesor, string prenume, string Materie)
         {
-            this.materie = materie;
             this.data = data;
             this.numeProfesor = numeProfesor;
             this.prenumeProfesor = prenume;
+            this.materie = Materie;
+         
         }
 
         public string Materie
